@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "705034096593",
+    "project_id": "note-app-604ac",
+    "storage_bucket": "note-app-604ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705034096593:android:2ba50df9c80c73fbd9daf0",
+        "android_client_info": {
+          "package_name": "easy.tuto.notespro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX2Zxu1_5fXKf-Mct7GxxHNSlruwTDobo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
